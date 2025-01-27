@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jennyn92
-- 👀 I’m interested in ...tech, fashion, graphics
-- 🌱 I’m currently learning ...Python, Javascript and Front end webdev.
+- 🖥️ I currently work in IT
+- 👀 I’m interested in ...making programs that make our work and lives smoother.
+- 🌱 I’m currently developing my Python and SQL skills with the CodeFirstGirls Degree.
 - 👩‍💻 Have a look and contact me at my website: https://jennifer-works.com/
 - 
 <!---
